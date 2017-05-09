@@ -2,3 +2,4 @@ This file is used to test some functionality of Phabricator. It should be delete
 Edit 1.
 Edit 2.
 Edit 3.
+Edit 4.
